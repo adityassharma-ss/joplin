@@ -237,7 +237,7 @@ PODS:
     - React-Core
   - react-native-rsa-native (2.0.5):
     - React
-  - react-native-slider (4.3.3):
+  - react-native-slider (4.4.0):
     - React-Core
   - react-native-sqlite-storage (6.0.1):
     - React-Core
@@ -514,8 +514,8 @@ SPEC CHECKSUMS:
   FBReactNativeSpec: c94002c1d93da3658f4d5119c6994d19961e3d52
   fmt: ff9d55029c625d3757ed641535fd4a75fedc7ce9
   glog: 85ecdd10ee8d8ec362ef519a6a45ff9aa27b2e85
-  JoplinCommonShareExtension: 270b4f8eb4e22828eeda433a04ed689fc1fd09b5
-  JoplinRNShareExtension: 9cd07431e525b36344fcecfaeecff974efc78528
+  JoplinCommonShareExtension: a8b60b02704d85a7305627912c0240e94af78db7
+  JoplinRNShareExtension: 485f3e6dad83b7b77f1572eabc249f869ee55c02
   RCT-Folly: 803a9cfd78114b2ec0f140cfa6fa2a6bafb2d685
   RCTRequired: cd47794163052d2b8318c891a7a14fcfaccc75ab
   RCTTypeSafety: 393bb40b3e357b224cde53d3fec26813c52428b1
@@ -537,7 +537,7 @@ SPEC CHECKSUMS:
   react-native-image-resizer: d9fb629a867335bdc13230ac2a58702bb8c8828f
   react-native-netinfo: 2517ad504b3d303e90d7a431b0fcaef76d207983
   react-native-rsa-native: 12132eb627797529fdb1f0d22fd0f8f9678df64a
-  react-native-slider: 7d19220da2f2ae7cbb9aa80127cb73c597fa221f
+  react-native-slider: d2938a12c4e439a227c70eec65d119136eb4aeb5
   react-native-sqlite-storage: f6d515e1c446d1e6d026aa5352908a25d4de3261
   react-native-version-info: a106f23009ac0db4ee00de39574eb546682579b9
   react-native-webview: 994b9f8fbb504d6314dc40d83f94f27c6831b3bf
